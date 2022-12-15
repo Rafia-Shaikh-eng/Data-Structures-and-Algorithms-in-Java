@@ -2,7 +2,7 @@
 Basic and advance tutorials of the DSA in java
 
 <h1> Youtube Recorded Lectures </h1>
-<h3>DSA Playlist : https://www.youtube.com/playlist?list </h3>
+<h3>DSA Playlist : https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh </h3>
 <ol>
   <li>Introduction to Java : https://youtu.be/oJtoYrPi33s </li>
   <li> Array's operations - Create Array: https://youtu.be/wKRXvcLov2A </li>
