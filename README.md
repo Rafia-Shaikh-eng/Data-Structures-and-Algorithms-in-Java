@@ -77,13 +77,13 @@
    <tr>
     <td>Postfix Expression using Stack(as an array)</td>
     <td> <a href="https://medium.com/@rafia.shaikh61">link</a></td>
-    <td><a href="https://www.youtube.com/watch?v=6yVBN">link</a></td>
+    <td><a href="https://youtu.be/6yVBNMCYYaw">link</a></td>
   </tr>
   
   <tr>
     <td>Evaluating Postfix Expression using Stack(as an array)</td>
     <td> <a href="https://medium.com/@rafia.shaikh61">link</a></td>
-    <td><a href="https://www.youtube.com/watch?v=HC6af">link</a></td>
+    <td><a href="https://youtu.be/HC6afi-84V4">link</a></td>
   </tr>
 
   
