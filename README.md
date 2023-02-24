@@ -12,8 +12,8 @@ Basic and advance tutorials of the DSA in java
   <li> PART#01 : Postfix Expression using Stack(as an array) in Java : https://www.youtube.com/watch?v=6yVBN </li>
   <li> PART#02 : Evaluating Postfix Expression using Stack(as an array) in Java.: https://www.youtube.com/watch?v=HC6af </li>
  </ol>
- <h2> Articles (notes) <\h2>
- <h3>https://medium.com/@rafia.shaikh61<\h3>
+ <h2> Articles (notes) </h2>
+ <h3> https://medium.com/@rafia.shaikh61 </h3>
 
 
 
