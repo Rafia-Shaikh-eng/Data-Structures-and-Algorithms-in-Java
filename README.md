@@ -4,12 +4,14 @@
   <tr>
     <th>Topic</th>
     <th>Article</th>
+    <th>Code</th>
     <th>Recorded Video</th>
   </tr>
   
   <tr>
     <td>Introduction to Java </td>
     <td> <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@rafia.shaikh61">link</a></td>
+    <td><a href="JavaFirst.java"></td>
     <td><a href="https://youtu.be/oJtoYrPi33s">link</a></td>
   </tr>  
     
