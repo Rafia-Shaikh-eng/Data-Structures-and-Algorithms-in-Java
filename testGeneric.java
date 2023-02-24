@@ -16,7 +16,7 @@ class anyPair<F,S>{
     }
 }
 //testGeneric class
-public class testGeneric{
+public class testGenericClass{
     //An enumeration (enum for short) in Java is a special data type which contains a set of predefined constants.
     enum Month{
         JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEPT,OCT,NOV,DEC;
