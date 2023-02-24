@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms in Java
 
 <table>
   <tr>
@@ -6,16 +6,26 @@
     <th>Article</th>
     <th>Recorded Video</th>
   </tr>
+ 
+  <tr>
+    <td>Array: creating an array </td>
+    <td> [https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac](https://medium.com/@rafia.shaikh61) </td>
+    <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh">link</a></td>
+  </tr>
+  
   <tr>
     <td>Generic classes</td>
     <td> <a href="https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac">link</a></td>
-    <td>Germany</td>
+    <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh">link</a></td>
   </tr>
+  
+  
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Generic classes</td>
+    <td> <a href="https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh">link</a></td>
   </tr>
+
 </table>
 
 <h2> Youtube Recorded Lectures </h2>
