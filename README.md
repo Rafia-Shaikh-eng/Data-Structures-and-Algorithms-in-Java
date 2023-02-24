@@ -9,8 +9,8 @@
   
   <tr>
     <td>Introduction to Java </td>
-    <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank" rel="noopener noreferrer">link</a></td>
-    <td><a href="https://youtu.be/oJtoYrPi33s" target="_blank">link</a></td>
+    <td> <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@rafia.shaikh61">link</a></td>
+    <td><a href="https://youtu.be/oJtoYrPi33s">link</a></td>
   </tr>  
     
   <tr>
