@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms-in-Java
 Basic and advance tutorials of the DSA in java
 
-<h1> Youtube Recorded Lectures </h1>
+<h2> Youtube Recorded Lectures </h2>
 <h3>DSA Playlist : https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh </h3>
 <ol>
   <li>Introduction to Java : https://youtu.be/oJtoYrPi33s </li>
@@ -12,6 +12,8 @@ Basic and advance tutorials of the DSA in java
   <li> PART#01 : Postfix Expression using Stack(as an array) in Java : https://www.youtube.com/watch?v=6yVBN </li>
   <li> PART#02 : Evaluating Postfix Expression using Stack(as an array) in Java.: https://www.youtube.com/watch?v=HC6af </li>
  </ol>
+ <h2> Articles (notes) <\h2>
+ <h3>https://medium.com/@rafia.shaikh61<\h3>
 
 
 
