@@ -1,5 +1,22 @@
-# Data-Structures-and-Algorithms-in-Java
-Basic and advance tutorials of the DSA in java
+# Data Structures &amp; Algorithms
+
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Article</th>
+    <th>Recorded Video</th>
+  </tr>
+  <tr>
+    <td>Generic classes</td>
+    <td> <a href="https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac">
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 <h2> Youtube Recorded Lectures </h2>
 <h3>DSA Playlist : https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh </h3>
