@@ -12,7 +12,7 @@
     <td>Introduction to Java </td>
     <td> <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@rafia.shaikh61">link</a></td>
     <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/112b29d4b278a04e8c26be3239d02f15628f59fc/JavaFirst.java">link</td>
-    <td><a href="https://youtu.be/oJtoYrPi33s">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=1&ab_channel=RafiaShaikh">link</a></td>
   </tr>  
     
   <tr>
@@ -67,14 +67,14 @@
    <tr>
     <td>Introduction to Singly Linked List</td>
     <td> <a href="https://medium.com/@rafia.shaikh61/java-linked-list-3d10d93afe5a" target="_blank">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/ba4141eee25e8db5f804de499c721611d0c139e8/singlyLinkedList.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
    <tr>
     <td>Insertion in Singly Linked List</td>
     <td> <a href="https://medium.com/@rafia.shaikh61/java-linked-list-operation-01-c0928dd9a918" target="_blank">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/ba4141eee25e8db5f804de499c721611d0c139e8/singlyLinkedList.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
@@ -82,7 +82,7 @@
   <tr>
     <td>Deletion in Singly Linked List</td>
     <td> <a href="https://medium.com/@rafia.shaikh61/java-linked-list-deletion-operation-eebb35f1bd08" target="_blank">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/ba4141eee25e8db5f804de499c721611d0c139e8/singlyLinkedList.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
