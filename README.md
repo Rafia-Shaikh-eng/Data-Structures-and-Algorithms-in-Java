@@ -22,7 +22,7 @@
   <tr>
     <td>Creating an array </td>
     <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
-    <td><a href="https://youtu.be/wKRXvcLov2A" target="_blank">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=wKRXvcLov2A&t=112s&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
    <tr>
