@@ -18,7 +18,7 @@
   <tr>
     <td>Generic classes</td>
     <td> <a href="https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac" target="_blank">link</a></td>
-    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in Java/blob/e265ba22c2dbda1cc00e134cee9e59185a622ae0/testGenericClass.java">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/4d1d9351609bff07a498884e633eff6f053ba9e7/testGenericClass.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
  
