@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Generic classes</td>
-    <td> (https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac) </td>
+    <td> [Link](https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac) </td>
     <td>Germany</td>
   </tr>
   <tr>
