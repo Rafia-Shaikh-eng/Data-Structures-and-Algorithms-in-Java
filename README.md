@@ -102,15 +102,15 @@
   
    <tr>
     <td>Postfix Expression using Stack(as an array)</td>
-    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/bffa4d05a775218f5255c6fa8fc17acc3097ddb9/Main_Postfix_Eval.java">link</a></td>
     <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
+     <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/bffa4d05a775218f5255c6fa8fc17acc3097ddb9/Main_Postfix_Eval.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=6yVBNMCYYaw&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=7&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
   <tr>
     <td>Evaluating Postfix Expression using Stack(as an array)</td>
-    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/bffa4d05a775218f5255c6fa8fc17acc3097ddb9/Main_Postfix_Eval.java">link</a></td>
     <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in Java/blob/bffa4d05a775218f5255c6fa8fc17acc3097ddb9/Main_Postfix_Eval.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=HC6afi-84V4&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=8&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
 
