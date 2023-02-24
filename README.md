@@ -89,7 +89,7 @@
   <tr>
     <td>Stack using array</td>
     <td> <a href="https://medium.com/@rafia.shaikh61/java-stack-ecb9541dcd16" target="_blank">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/cc22500fe66b36935e8ea60ff675d31930b546d0/stackArray.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=oJtoYrPi33s&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
