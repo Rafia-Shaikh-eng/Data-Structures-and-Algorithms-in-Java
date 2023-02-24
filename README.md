@@ -26,21 +26,33 @@
   </tr>
   
    <tr>
-    <td>Traversal in array</td>
+    <td>Iterating over an array</td>
     <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
-    <td><a href="https://youtu.be/2xj505aICu0" target="_blank">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=2xj505aICu0&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
    <tr>
-    <td>Update Array element</td>
+    <td>Updating elements in an array</td>
     <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
-    <td><a href="https://youtu.be/5obytqhmMo0" target="_blank">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=5obytqhmMo0&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=4&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
   
    <tr>
-    <td>Linear Search in Array</td>
+    <td>Removing elements from an array</td>
+    <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=LTr0KXw8PF4&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=5&ab_channel=RafiaShaikh" target="_blank">link</a></td>
+  </tr>
+  
+   <tr>
+    <td>Adding elements to an array</td>
+    <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=NIc7F3uoEpQ&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=6&ab_channel=RafiaShaikh" target="_blank">link</a></td>
+  </tr>
+  
+   <tr>
+    <td>Searching for an element in an array</td>
     <td> <a href="https://medium.com/@rafia.shaikh61">link</a></td>
-    <td><a href="https://youtu.be/7HM-r3YoNGg">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=7HM-r3YoNGg&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=9&ab_channel=RafiaShaikh">link</a></td>
   </tr>
   
    <tr>
