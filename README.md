@@ -39,8 +39,8 @@
   
    <tr>
     <td>Linear Search in Array</td>
-    <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
-    <td><a href="https://youtu.be/7HM-r3YoNGg" target="_blank">link</a></td>
+    <td> <a href="https://medium.com/@rafia.shaikh61">link</a></td>
+    <td><a href="https://youtu.be/7HM-r3YoNGg">link</a></td>
   </tr>
   
    <tr>
