@@ -1,4 +1,4 @@
-# Data Structures &amp; Algorithms
+# Data Structures and Algorithms
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Generic classes</td>
-    <td> <a href="https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac"></a></td>
+    <td> "https://medium.com/@rafia.shaikh61/generic-in-java-88e5d39cd8ac" </td>
     <td>Germany</td>
   </tr>
   <tr>
