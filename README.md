@@ -114,6 +114,13 @@
     <td><a href="https://www.youtube.com/watch?v=HC6afi-84V4&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=8&ab_channel=RafiaShaikh" target="_blank">link</a></td>
   </tr>
 
+
+  <tr>
+    <td>Binary Search Tree</td>
+    <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
+    <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/5df488069744a05443c5a7bd403b4957271fa222/testBSTree.java">link</a></td>
+    <td><a href="https://www.youtube.com/watch?v=HC6afi-84V4&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=8&ab_channel=RafiaShaikh" target="_blank">link</a></td>
+  </tr>
   
 </table>
 
