@@ -124,7 +124,7 @@
   
   
   <tr>
-    <td>Binary Search Tree</td>
+    <td>AVL Tree</td>
     <td> <a href="https://medium.com/@rafia.shaikh61" target="_blank">link</a></td>
     <td><a href="https://github.com/Rafia-Shaikh-eng/Data-Structures-and-Algorithms-in-Java/blob/921907e3be07390530fd7408d101d3be6dba3e97/testAVLTree.java">link</a></td>
     <td><a href="https://www.youtube.com/watch?v=HC6afi-84V4&list=PLm9DiRumsuAgQimPRjlRyXqJEMLoll3dN&index=8&ab_channel=RafiaShaikh" target="_blank">link</a></td>
